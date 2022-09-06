@@ -1,3 +1,3 @@
 # kimmix
-### h2 hi
+### hi
 first  pages repository
